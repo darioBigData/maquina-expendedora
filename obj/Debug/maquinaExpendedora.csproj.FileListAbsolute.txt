@@ -1,0 +1,40 @@
+C:\Users\dario\source\repos\maquinaExpendedora\bin\Debug\maquinaExpendedora.exe.config
+C:\Users\dario\source\repos\maquinaExpendedora\bin\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora\bin\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.Form1.resources
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.Properties.Resources.resources
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora\obj\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\bin\Debug\maquinaExpendedora.exe.config
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\bin\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\bin\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.Form1.resources
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.Properties.Resources.resources
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - copia (2)\obj\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\bin\Debug\maquinaExpendedora.exe.config
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\bin\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\bin\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.Form1.resources
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.Properties.Resources.resources
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - Versión Final\obj\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\bin\Debug\maquinaExpendedora.exe.config
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\bin\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\bin\Debug\maquinaExpendedora.pdb
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.Form1.resources
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.Properties.Resources.resources
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.exe
+C:\Users\dario\source\repos\maquinaExpendedora - Darío\obj\Debug\maquinaExpendedora.pdb
