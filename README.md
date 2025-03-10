@@ -1,9 +1,9 @@
-🥤 Máquina Expendedora Virtual
+# 🥤 Máquina Expendedora Virtual
 
 Este proyecto es una simulación de una máquina expendedora desarrollada en C# y Windows Forms. Permite a los usuarios insertar monedas, seleccionar una bebida y retirarla una vez comprada.
 
 
-🚀 Características
+## 🚀 Características
 
 Soporte para múltiples monedas (€0.50, €1, €2).
 
@@ -16,7 +16,7 @@ Sistema de cambio y cancelación de compra.
 Soporte para múltiples idiomas (Español e Inglés).
 
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 Lenguaje: C#
 
@@ -24,17 +24,21 @@ Framework: .NET Windows Forms
 
 IDE: Visual Studio
 
-🏗️ Instalación y uso
+## 🏗️ Instalación y uso
 
 Clona este repositorio:
 
+### Bash
+
+``` 
 git clone https://github.com/tu_usuario/maquina-expendedora.git
+```
 
 Abre el proyecto en Visual Studio.
 
 Compila y ejecuta el programa.
 
-📌 Mejoras futuras
+## 📌 Mejoras futuras
 
 
 Implementar más opciones de bebidas.
