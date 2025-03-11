@@ -38,6 +38,10 @@ Abre el proyecto en Visual Studio.
 
 Compila y ejecuta el programa.
 
+## 📷 Interfaz Gráfica
+
+![Interfaz de la Máquina Expendedora](https://github.com/darioBigData/maquina-expendedora/issues/1#issue-2909396138)
+
 ## 📌 Mejoras futuras
 
 
